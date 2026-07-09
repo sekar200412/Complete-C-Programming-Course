@@ -64,9 +64,7 @@
 ## Additional Resources🧾 
 - [C Programming Language Tutorial - Javatpoint.com](https://www.javatpoint.com/c-programming-language-tutorial)
 
-## Authors✊
 
-- [ Densuke Alpha ](https://www.github.com/kitretsusaisama )
 
 
 ## Badges🔰 
